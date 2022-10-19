@@ -1,0 +1,15 @@
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.csproj.AssemblyReference.cache
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.AssemblyInfoInputs.cache
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.AssemblyInfo.cs
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\TemperatureAndHumidity\bin\Debug\net6.0\TemperatureAndHumidity.exe
+D:\CSharp\Console\TemperatureAndHumidity\bin\Debug\net6.0\TemperatureAndHumidity.deps.json
+D:\CSharp\Console\TemperatureAndHumidity\bin\Debug\net6.0\TemperatureAndHumidity.runtimeconfig.json
+D:\CSharp\Console\TemperatureAndHumidity\bin\Debug\net6.0\TemperatureAndHumidity.dll
+D:\CSharp\Console\TemperatureAndHumidity\bin\Debug\net6.0\TemperatureAndHumidity.pdb
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.dll
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\refint\TemperatureAndHumidity.dll
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.pdb
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\TemperatureAndHumidity.genruntimeconfig.cache
+D:\CSharp\Console\TemperatureAndHumidity\obj\Debug\net6.0\ref\TemperatureAndHumidity.dll
